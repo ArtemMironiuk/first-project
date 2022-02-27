@@ -1,2 +1,5 @@
-public status void Praktikum (String [arg]){
+public status void Praktikum {
+
+public void main (String [arg]){
+}
 }
